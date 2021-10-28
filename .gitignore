@@ -3,3 +3,6 @@
 ################################################################################
 
 /.vs
+/CdnTech.BookStore/.vs/CdnTech.BookStore
+/CdnTech.BookStore/CdnTech.BookStore/bin/Debug/net5.0
+/CdnTech.BookStore/CdnTech.BookStore/obj
